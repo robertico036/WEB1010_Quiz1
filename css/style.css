@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: gray;
+}
+header{
+	color: blue;
+	size: 30px;
+}
+.box{
+	border: 1px solid black;
+	min-width: 450px;
+	max-width: 450px;
+	min-height: 300px;
+	max-height: 300px;
+	margin: 50vh;
+	padding: 10px;
+	background: white;
+	text-align: center;
+
+}
+img{
+	max-width: 24vh;
+	padding-right: 0px;
+	text-align: left;
+}
+.menu{
+	text-align: right;
+	color: blue;
+	display: inline-block;
+	}
+.price{
+	color: red;
+}
+.button{
+color: green;
+border: 1px solid black;
+	min-width: 450px;
+	max-width: 450px;
+	min-height: 300px;
+	max-height: 300px;
+	margin: 50vh;
+	padding: 10px;
+	background: white;
+	text-align: center;
+
+}
